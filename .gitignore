@@ -1,0 +1,6 @@
+#Blacklist everything
+/*
+
+#Whitelist a few exceptions
+!.gitignore
+!Breast.ipynb
