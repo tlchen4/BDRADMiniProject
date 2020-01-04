@@ -4,4 +4,6 @@
 #Whitelist a few exceptions
 !.gitignore
 !Breast.ipynb
+!BreastResNet.ipynb
 !License.txt
+!README.md
